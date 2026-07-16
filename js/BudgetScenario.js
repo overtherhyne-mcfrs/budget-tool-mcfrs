@@ -655,7 +655,7 @@ class BudgetScenario {
 
 
         const finalBudget =
-            original - cuts + adds;
+            this.startingBudget - cuts + adds;
 
         this.container.querySelector(
             "#savingsTarget"
