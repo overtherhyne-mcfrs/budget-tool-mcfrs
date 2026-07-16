@@ -34,6 +34,31 @@ class BudgetScenario {
                 Scenario
             </h1>
 
+            <details class="instructions-panel" open>
+
+            <h3>Instructions</h3>
+
+            <ol>
+                <li>This is a tool meant for a cost savings exercise for the MCFRS Budget. For the purposes of the exercise, you must accept the values as is:</li>
+                <ol>
+                    <li>You cannot take "partial reductions."</li>
+                    <li>Your choices are limited to keep things simple for the exercise.</li>
+                </ol>
+                <li>Expand the <strong>Additions</strong> and <strong>Reductions</strong> panels to view your options.</li>
+                <li>Drag additions into the Selected Additions box.</li>
+                <li>Drag reductions into their associated Selected Reductions boxes.</li>
+                <li>To clear the selections and start over, click the <stron>>New Scenario</strong> Button at the top.</li>
+                <li>This is currently designed to work on a computer and may function differently on phones.</li>
+                <li>Other Specifics:</li>
+                <ol>
+                    <li>To add an EMSDO, use the 1-person ALS-PCU 24/7 option; it is not 100% accurate but close enough.</li>
+                    <li>Treat a Civ-Mngr as a Section or Unit Lead.</li>
+                    <li>Treat a Civ-Clerk as a basic administrative help, no supervisory role</li>
+                    <li>Treat a Civilian-Admin-Spec as advanced administrative help, no supervisory role. This would be good for CRR or CAT</li>
+                </ol>
+            </ol>
+
+        </details>
 
             
 
