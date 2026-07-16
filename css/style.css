@@ -143,6 +143,44 @@ header{
 
 }
 
+.instructions-panel {
+
+    background: #f8f9fa;
+
+    border: 1px solid #d6d6d6;
+
+    border-left: 6px solid #2c6fb7;
+
+    border-radius: 8px;
+
+    padding: 15px 20px;
+
+    margin: 20px 0;
+
+}
+
+.instructions-panel h3 {
+
+    margin-top: 0;
+
+    margin-bottom: 10px;
+
+}
+
+.instructions-panel ol {
+
+    margin: 0;
+
+    padding-left: 22px;
+
+}
+
+.instructions-panel li {
+
+    margin-bottom: 8px;
+
+}
+
 button{
 
     padding:10px 20px;
