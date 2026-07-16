@@ -47,7 +47,7 @@ class BudgetScenario {
                 <li>Expand the <strong>Additions</strong> and <strong>Reductions</strong> panels to view your options.</li>
                 <li>Drag additions into the Selected Additions box.</li>
                 <li>Drag reductions into their associated Selected Reductions boxes.</li>
-                <li>To clear the selections and start over, click the <stron>>New Scenario</strong> Button at the top.</li>
+                <li>To clear the selections and start over, click the <strong>New Scenario</strong> Button at the top.</li>
                 <li>This is currently designed to work on a computer and may function differently on phones.</li>
                 <li>Other Specifics:</li>
                 <ol>
