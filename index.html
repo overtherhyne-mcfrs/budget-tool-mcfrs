@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budget Simulator</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <div class="page-header">
+
+        <img
+            src="images/logo-red-transparent.png"
+            alt="Budget Planner Logo"
+            class="page-logo">
+
+        <div>
+
+            <h1 class="page-title">
+                Budget Planner
+            </h1>
+
+            <p class="page-subtitle">
+                Build and compare budget scenarios
+            </p>
+
+        </div>
+
+    </div>
+    <button id="newScenario">New Scenario</button>
+</header>
+
+<div id="scenarios"></div>
+
+
+
+<script src="data/CurrentBudget.json"></script>
+<script src="data/additions.json"></script>
+<script src="js/calculations.js"></script>
+<script src="js/BudgetScenario.js"></script>
+
+<script src="js/app.js"></script>
+
+</body>
+</html>

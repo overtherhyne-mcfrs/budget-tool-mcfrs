@@ -1,0 +1,121 @@
+[
+  {
+    "ID": 1,
+    "Item": "4-person major service 24/7 [1st service]",
+    "Cost": 3638986.9,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 2,
+    "Item": "4-person major service 24/7 [2nd service]",
+    "Cost": 3484356.9,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 3,
+    "Item": "3-person major service 24/7 [1st service]",
+    "Cost": 2900995.1,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 4,
+    "Item": "3-person major service 24/7 [2nd service]",
+    "Cost": 2746365.1,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 5,
+    "Item": "2-person BLS unit 24/7",
+    "Cost": 1508070.2,
+    "Type": "Service",
+    "Subtype": "2-person BLS unit 24/7"
+  },
+  {
+    "ID": 6,
+    "Item": "2-person ALS unit 24/7",
+    "Cost": 1708177.4,
+    "Type": "Service",
+    "Subtype": "2-person ALS unit 24/7"
+  },
+  {
+    "ID": 7,
+    "Item": "1-person ALS-PCU 24/7",
+    "Cost": 954142.3,
+    "Type": "Service",
+    "Subtype": "1-person ALS-PCU 24/7"
+  },
+  {
+    "ID": 8,
+    "Item": "4-person major service 10 hrs [1st service]",
+    "Cost": 1471666.6,
+    "Type": "Service",
+    "Subtype": "4-person major service 10 hrs [1st service]"
+  },
+  {
+    "ID": 9,
+    "Item": "4-person major service 10 hrs [2nd service]",
+    "Cost": 1437825.7,
+    "Type": "Service",
+    "Subtype": "4-person major service 10 hrs [2nd service]"
+  },
+  {
+    "ID": 10,
+    "Item": "3-person major service 10 hrs [1st service]",
+    "Cost": 1182887.2,
+    "Type": "Service",
+    "Subtype": "3-person major service 10 hrs [1st service]"
+  },
+  {
+    "ID": 11,
+    "Item": "3-person major service 10 hrs [2nd service]",
+    "Cost": 1149046.3,
+    "Type": "Service",
+    "Subtype": "3-person major service 10 hrs [2nd service]"
+  },
+  {
+    "ID": 12,
+    "Item": "2-person BLS unit 10 hrs",
+    "Cost": 609645.4,
+    "Type": "Service",
+    "Subtype": "2-person BLS unit 10 hrs"
+  },
+  {
+    "ID": 13,
+    "Item": "2-person ALS unit 10 hrs",
+    "Cost": 690539.8,
+    "Type": "Service",
+    "Subtype": "2-person ALS unit 10 hrs"
+  },
+  {
+    "ID": 14,
+    "Item": "1-person ALS-PCU 10 hrs",
+    "Cost": 385717.1,
+    "Type": "Service",
+    "Subtype": "1-person ALS-PCU 10 hrs"
+  },
+  {
+    "ID": 15,
+    "Item": "Civilian-Mngr",
+    "Cost": 160610,
+    "Type": "Service",
+    "Subtype": "Civilian-Mngr"
+  },
+  {
+    "ID": 16,
+    "Item": "Civilian-Clerk",
+    "Cost": 90159,
+    "Type": "Service",
+    "Subtype": "Civilian-Clerk"
+  },
+  {
+    "ID": 17,
+    "Item": "Civilian-Admin-Spec",
+    "Cost": 101244,
+    "Type": "Service",
+    "Subtype": "Civilian-Admin-Spec"
+  }
+]

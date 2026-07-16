@@ -1,0 +1,2613 @@
+[
+  {
+    "ID": 1,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Trophies & Awards",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 2,
+    "Item": "Fire Chief's Executive Office-Trophies & Awards",
+    "Cost": 7000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 3,
+    "Item": "Facilities-Cellular Phones",
+    "Cost": 1137,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 4,
+    "Item": "Training Administration-Heating & Air Conditioning Fix & Supplies",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 5,
+    "Item": "Facilities-Tools",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 6,
+    "Item": "Fire Chief's Executive Office-Imaging",
+    "Cost": 187806,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 7,
+    "Item": "Property & Supply-Imaging",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 8,
+    "Item": "Fire Chief's Executive Office-Plaques & Other Awards",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 9,
+    "Item": "Training Administration-Other Equipment Repair/Maintenance",
+    "Cost": 50400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 10,
+    "Item": "EMS Logistics-Wireless Communications",
+    "Cost": 886500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 11,
+    "Item": "Behavioral Health-Software Licensure/Maintenance Agreements",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 12,
+    "Item": "Scheduling-Software Licensure/Maintenance Agreements",
+    "Cost": 12500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 13,
+    "Item": "Behavioral Health-General Liability",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 14,
+    "Item": "Property & Supply-Other Supplies & Equipment",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 15,
+    "Item": "Fire Chief's Executive Office-Other Supplies & Equipment",
+    "Cost": 4800,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 16,
+    "Item": "Special Events-Other Supplies & Equipment",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 17,
+    "Item": "Hazmat-Computer Supplies",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 18,
+    "Item": "Emergency Communications Center (ECC)-Computer Supplies",
+    "Cost": 3500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 19,
+    "Item": "Safety Section-Computer Supplies",
+    "Cost": 350,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 20,
+    "Item": "Facilities-Tool Rentals",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 21,
+    "Item": "Fleet Support-Tool Rentals",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 22,
+    "Item": "Training Administration-Propane",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 23,
+    "Item": "Budget & Grants-Accounting / Auditing Services",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 24,
+    "Item": "Recruiting-Advertising - Jobs",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 25,
+    "Item": "Training Administration-Computer Equipment - Non Capitalized",
+    "Cost": 1500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 26,
+    "Item": "Fire Chief's Executive Office-Other Central Duplicating Services - Printing",
+    "Cost": 132951,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 27,
+    "Item": "Training Administration-Tool Rentals",
+    "Cost": 300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 28,
+    "Item": "EMS Billing-Computer Equipment - Non Capitalized",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 29,
+    "Item": "Fire Chief's Executive Office-Security Services",
+    "Cost": 4000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 30,
+    "Item": "Training Administration-Other Rentals / Leases",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 31,
+    "Item": "Admin Services-Other Rentals / Leases",
+    "Cost": 5600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 32,
+    "Item": "Fire Chief's Executive Office-Other Miscellaneous Operating Expenses",
+    "Cost": 56611,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 33,
+    "Item": "Fleet Support-Chainsaw Repairs/Parts",
+    "Cost": 160000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 34,
+    "Item": "EMS Logistics-Drugs & Medicine",
+    "Cost": 580000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 35,
+    "Item": "Fire & Explosive Investigations-Evidence Control Materials",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 36,
+    "Item": "Behavioral Health-Books / Reference Materials",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 37,
+    "Item": "Training Administration-Books / Reference Materials",
+    "Cost": 60400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 38,
+    "Item": "Technology Services-Maintenance - Computer Systems",
+    "Cost": 15000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 39,
+    "Item": "Training Administration-Public Safety Training",
+    "Cost": 215250,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 40,
+    "Item": "Fire Chief's Executive Office-Office Machines/Copier Leases",
+    "Cost": 245608,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 41,
+    "Item": "Internal Affairs-Metropolitan Area Travel",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 42,
+    "Item": "Emergency Communications Center (ECC)-General Office Supplies",
+    "Cost": 6000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 43,
+    "Item": "EMS Logistics-Building Or Space Rentals/Leases",
+    "Cost": 16500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 44,
+    "Item": "Facilities-Electrical Fixtures & Supplies",
+    "Cost": 1500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 45,
+    "Item": "Training Administration-Electrical Fixtures & Supplies",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 46,
+    "Item": "Training Administration-Painting Supplies And Materials",
+    "Cost": 350,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 47,
+    "Item": "Emergency Communications Center (ECC)-Other Equipment Repair/Maintenance",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 48,
+    "Item": "Facilities-Other Equipment Repair/Maintenance",
+    "Cost": 200000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 49,
+    "Item": "Safety Section-Metropolitan Area Travel",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 50,
+    "Item": "Fire & Explosive Investigations-Professional Memberships (Individual)",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 51,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Professional Memberships (Individual)",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 52,
+    "Item": "Property & Supply-Professional Memberships (Individual)",
+    "Cost": 150,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 53,
+    "Item": "Community Emergency Response Team (CERT)-Public Safety Training",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 54,
+    "Item": "EMS Billing-Accounting / Auditing Services",
+    "Cost": 50000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 55,
+    "Item": "Community Risk Reduction-Senior Services",
+    "Cost": 100000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 56,
+    "Item": "Technology Services-Computer Supplies",
+    "Cost": 3500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 57,
+    "Item": "Budget & Grants-Computer Supplies",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 58,
+    "Item": "Facilities-Portable Lavatory Rentals",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 59,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Metropolitan Area Travel",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 60,
+    "Item": "Fire Chief's Executive Office-Water Cooler Rentals",
+    "Cost": 126000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 61,
+    "Item": "Operations Division - Executive Office-Local Conference Related",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 62,
+    "Item": "Procurement-Outside Overnight Mail/Courier",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 63,
+    "Item": "Fire Chief's Executive Office-Charges from Division of Facilities Maintenance",
+    "Cost": 12200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 64,
+    "Item": "Fleet Operations-Diesel Fuel",
+    "Cost": 1054641,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 65,
+    "Item": "Fleet Operations-Shop Equipment & Tools- Non Capitalized",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 66,
+    "Item": "EMS Logistics-Shop Equipment & Tools- Non Capitalized",
+    "Cost": 13200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 67,
+    "Item": "Hazmat-Shop Equipment & Tools- Non Capitalized",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 68,
+    "Item": "Training Administration-Shop Equipment & Tools- Non Capitalized",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 69,
+    "Item": "Behavioral Health-Building Or Space Rentals/Leases",
+    "Cost": 64000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 70,
+    "Item": "Special Operations Administration-Building Or Space Rentals/Leases",
+    "Cost": 216000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 71,
+    "Item": "Facilities-Other Supplies And Materials",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 72,
+    "Item": "Internal Affairs-Other Travel",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 73,
+    "Item": "Fleet Support-Other Travel",
+    "Cost": 25000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 74,
+    "Item": "EMS Logistics-Cellular Phone Line Charges",
+    "Cost": 34100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 75,
+    "Item": "Length of Service Awards Program-Length of Service Awards Program - Death Benefit",
+    "Cost": 70000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 76,
+    "Item": "Volunteer Services - Executive Office-Other Travel",
+    "Cost": 1600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 77,
+    "Item": "Fire Chief's Executive Office-Other Travel",
+    "Cost": 8000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 78,
+    "Item": "EMS Billing-Outside Postage",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 79,
+    "Item": "Training Administration-Other Professional Services",
+    "Cost": 1070,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 80,
+    "Item": "Fire Chief's Executive Office-Other Professional Services",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 81,
+    "Item": "Facilities-Other Professional Services",
+    "Cost": 120000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 82,
+    "Item": "Planning and Accreditation-Books / Reference Materials",
+    "Cost": 300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 83,
+    "Item": "Hazmat-Public Safety Training",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 84,
+    "Item": "Property & Supply-Maintenance - Automotive Fleet",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 85,
+    "Item": "Special Events-Outside Printing / Copying",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 86,
+    "Item": "Fleet Support-Non-Metropolitan Area Travel",
+    "Cost": 25000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 87,
+    "Item": "Technology Services-Non-Metropolitan Area Travel",
+    "Cost": 700,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 88,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Fire Department Allotments",
+    "Cost": 72000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 89,
+    "Item": "Volunteer Services - Executive Office-Fire Department Allotments",
+    "Cost": 5665059,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 90,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Length of Service Awards Program - Payments",
+    "Cost": 55822,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 91,
+    "Item": "Length of Service Awards Program-Length of Service Awards Program - Payments",
+    "Cost": 1555107,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 92,
+    "Item": "Fleet Support-Assigned Motor Pool Vehicles",
+    "Cost": 1371708,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 93,
+    "Item": "Support Services Division - Executive Office-Assigned Motor Pool Vehicles",
+    "Cost": 83961,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 94,
+    "Item": "Rescue 2-Cleaning Supplies",
+    "Cost": 9000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 95,
+    "Item": "EMS Logistics-Oil",
+    "Cost": 4000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 96,
+    "Item": "Fleet Operations-Oil",
+    "Cost": 60000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 97,
+    "Item": "Fleet Operations-Automotive Shop Supplies & Materials",
+    "Cost": 10450,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 98,
+    "Item": "Fire Chief's Executive Office-Central Duplicating - Postage - Bulk",
+    "Cost": 7000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 99,
+    "Item": "Facilities-Kitchen Supplies",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 100,
+    "Item": "Fire Chief's Executive Office-Other Central Duplicating Services - Mail",
+    "Cost": 362800,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 101,
+    "Item": "Admin Services-Meetings: Meals/Snacks/Refreshments",
+    "Cost": 2900,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 102,
+    "Item": "Operations Division - Executive Office-Meetings: Meals/Snacks/Refreshments",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 103,
+    "Item": "Emergency Communications Center (ECC)-Meetings: Meals/Snacks/Refreshments",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 104,
+    "Item": "Training Administration-Non-Metropolitan Area Travel",
+    "Cost": 1700,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 105,
+    "Item": "Fire Chief's Executive Office-Non-Metropolitan Area Travel",
+    "Cost": 8000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 106,
+    "Item": "Property & Supply-Non-Metropolitan Area Travel",
+    "Cost": 3500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 107,
+    "Item": "EMS Logistics-Batteries",
+    "Cost": 4500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 108,
+    "Item": "Recruiting-Job Fairs / Career Days",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 109,
+    "Item": "Safety Section-Other Public Safety Supplies/Equipment",
+    "Cost": 29,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 110,
+    "Item": "Fire Chief's Executive Office-Professional Purchase Of Service",
+    "Cost": 4000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 111,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Charges from Risk Management",
+    "Cost": 14386523,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 112,
+    "Item": "Admin Services-Building Or Space Rentals/Leases",
+    "Cost": 3900,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 113,
+    "Item": "Fleet Support-Other Equipment Repair/Maintenance",
+    "Cost": 46697,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 114,
+    "Item": "Fleet Support-Other Public Safety Supplies/Equipment",
+    "Cost": 225000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 115,
+    "Item": "Fire & Explosive Investigations-Other Public Safety Supplies/Equipment",
+    "Cost": 165275,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 116,
+    "Item": "Hazmat-Other Public Safety Supplies/Equipment",
+    "Cost": 116554,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 117,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Other Public Safety Supplies/Equipment",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 118,
+    "Item": "Property & Supply-Public Safety Personnel Equipment - Non Capitalized",
+    "Cost": 92000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 119,
+    "Item": "EMS Logistics-Other Public Safety Supplies/Equipment",
+    "Cost": 248750,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 120,
+    "Item": "Station 22-Other Public Safety Supplies/Equipment",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 121,
+    "Item": "Admin Services-Other Miscellaneous Operating Expenses",
+    "Cost": 2900,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 122,
+    "Item": "Training Administration-Metropolitan Area Travel",
+    "Cost": 100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 123,
+    "Item": "Behavioral Health-Metropolitan Area Travel",
+    "Cost": 1500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 124,
+    "Item": "Emergency Communications Center (ECC)-Metropolitan Area Travel",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 125,
+    "Item": "Volunteer Services - Executive Office-Metropolitan Area Travel",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 126,
+    "Item": "Technology Services-Metropolitan Area Travel",
+    "Cost": 270,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 127,
+    "Item": "EMS Logistics-Other Supplies And Materials",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 128,
+    "Item": "Volunteer Services - Executive Office-Medical Exams",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 129,
+    "Item": "Fire & Explosive Investigations-Radiology Services",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 130,
+    "Item": "Admin Services-Promotional Exam Services",
+    "Cost": 38100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 131,
+    "Item": "EMS Logistics-Telephone Service Maintanence - Contract",
+    "Cost": 145330,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 132,
+    "Item": "Technology Services-Computer Training",
+    "Cost": 5845,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 133,
+    "Item": "Fleet Support-Information System Services",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 134,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Temporary Office Clerical",
+    "Cost": 20000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 135,
+    "Item": "Training Administration-Forms",
+    "Cost": 600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 136,
+    "Item": "Fleet Support-Uniforms",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 137,
+    "Item": "EMS Logistics-Medical Equipment",
+    "Cost": 689000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 138,
+    "Item": "Fleet Support-Other Supplies & Equipment",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 139,
+    "Item": "Community Risk Reduction-Other Supplies & Equipment",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 140,
+    "Item": "EMS Logistics-Other Supplies & Equipment",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 141,
+    "Item": "Fleet Operations-Maintenance - Vehicles",
+    "Cost": 15000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 142,
+    "Item": "Fleet Operations-Maintenance - Vehicles",
+    "Cost": 2443444,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 143,
+    "Item": "Fleet Support-Other Miscellaneous Operating Expenses",
+    "Cost": 14700,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 144,
+    "Item": "Fleet Operations-Tires & Tubes",
+    "Cost": 250000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 145,
+    "Item": "Emergency Communications Center (ECC)-Computer Software",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 146,
+    "Item": "Budget & Grants-Paper & Supplies For Copiers",
+    "Cost": 10650,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 147,
+    "Item": "Planning and Accreditation-Software Licensure/Maintenance Agreements",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 148,
+    "Item": "Training Administration-Furniture Rentals",
+    "Cost": 1300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 149,
+    "Item": "Volunteer Services - Executive Office-Professional Other Government Agency Staff Change",
+    "Cost": 239317,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 150,
+    "Item": "Property & Supply-EMS Personal Protective Equipment",
+    "Cost": 100000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 151,
+    "Item": "Fire Chief's Executive Office-Professional Memberships (Individual)",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 152,
+    "Item": "Special Operations Administration-Professional Memberships (Individual)",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 153,
+    "Item": "Training Administration-Computer Supplies",
+    "Cost": 6000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 154,
+    "Item": "Fire Chief's Executive Office-Inter-Office Mail",
+    "Cost": 60269,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 155,
+    "Item": "Fleet Operations-Engine Parts & Supplies",
+    "Cost": 750000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 156,
+    "Item": "Operations Division - Executive Office-Water Cooler Rentals",
+    "Cost": 12111,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 157,
+    "Item": "Fleet Operations-Gasoline",
+    "Cost": 167959,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 158,
+    "Item": "Procurement-Professional Memberships (Individual)",
+    "Cost": 100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 159,
+    "Item": "Volunteer Services - Executive Office-Legal / Attorney Services",
+    "Cost": 57752,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 160,
+    "Item": "Technical Rescue-Assigned Motor Pool Vehicles",
+    "Cost": 2469,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 161,
+    "Item": "Technology Services-Software Licensure/Maintenance Agreements",
+    "Cost": 4985,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 162,
+    "Item": "EMS Logistics-Radio & Communication Equipment Repair/Maintenance",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 163,
+    "Item": "Emergency Communications Center (ECC)-Radio & Communication Equipment Repair/Maintenance",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 164,
+    "Item": "EMS Billing-Computer Software",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 165,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Non-Local Conference Related",
+    "Cost": 50200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 166,
+    "Item": "Community Risk Reduction-Non-Local Conference Related",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 167,
+    "Item": "Scheduling-Maintenance - Computer Systems",
+    "Cost": 12500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 168,
+    "Item": "Planning and Accreditation-Non-Local Conference Related",
+    "Cost": 800,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 169,
+    "Item": "EMS Billing-Non-Local Conference Related",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 170,
+    "Item": "Procurement-Professional Organizations (Group)",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 171,
+    "Item": "Fire & Explosive Investigations-Badges",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 172,
+    "Item": "Training Administration-Cellular Phones",
+    "Cost": 1200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 173,
+    "Item": "Special Events-Other Equipment Rentals",
+    "Cost": 7300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 174,
+    "Item": "Facilities-Office Furniture- Non Capitalized",
+    "Cost": 125000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 175,
+    "Item": "Fire & Explosive Investigations-Other Supplies & Equipment",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 176,
+    "Item": "Admin Services-Other Supplies & Equipment",
+    "Cost": 100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 177,
+    "Item": "Special Operations Administration-Other - Mail",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 178,
+    "Item": "Budget & Grants-Other - Mail",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 179,
+    "Item": "Admin Services-Other - Mail",
+    "Cost": 300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 180,
+    "Item": "Fleet Support-Other Outside Mail Services",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 181,
+    "Item": "Training Administration-Plumbing Fixtures & Supplies",
+    "Cost": 1500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 182,
+    "Item": "Emergency Communications Center (ECC)-Other - Mail",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 183,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Other - Mail",
+    "Cost": 600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 184,
+    "Item": "Fire Chief's Executive Office-Other - Mail",
+    "Cost": 600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 185,
+    "Item": "EMS Logistics-Other - Mail",
+    "Cost": 1900,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 186,
+    "Item": "EMS Logistics-Communication Modems",
+    "Cost": 9000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 187,
+    "Item": "Safety Section-Other Supplies And Materials",
+    "Cost": 20,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 188,
+    "Item": "Property & Supply-Charges from Division of Facilities Maintenance",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 189,
+    "Item": "Internal Affairs-Other Public Safety Supplies/Equipment",
+    "Cost": 3700,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 190,
+    "Item": "Operations Division - Executive Office-Other Public Safety Supplies/Equipment",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 191,
+    "Item": "EMS Logistics-Contracts",
+    "Cost": 372000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 192,
+    "Item": "Property & Supply-Other Public Safety Supplies/Equipment",
+    "Cost": 60000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 193,
+    "Item": "Safety Section-Local Conference Related",
+    "Cost": 6601,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 194,
+    "Item": "Volunteer Services - Executive Office-Local Conference Related",
+    "Cost": 3500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 195,
+    "Item": "Emergency Communications Center (ECC)-Paper & Supplies For Copiers",
+    "Cost": 750,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 196,
+    "Item": "Property & Supply-Personal Protective Equipment Repair and Cleaning",
+    "Cost": 305500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 197,
+    "Item": "Human Resources - Executive Office-Non-Metropolitan Area Travel",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 198,
+    "Item": "EMST Reimbursement-Central Duplicating - Other Printing/Copying",
+    "Cost": 1200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 199,
+    "Item": "Training Administration-Uniforms",
+    "Cost": 400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 200,
+    "Item": "Property & Supply-Other Equipment Rentals",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 201,
+    "Item": "Training Administration-Other Supplies And Materials",
+    "Cost": 21100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 202,
+    "Item": "Admin Services-Professional/Licensure Training",
+    "Cost": 400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 203,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Professional/Licensure Training",
+    "Cost": 400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 204,
+    "Item": "Facilities-Professional/Licensure Training",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 205,
+    "Item": "Behavioral Health-Other Supplies And Materials",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 206,
+    "Item": "Planning and Accreditation-Metropolitan Area Travel",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 207,
+    "Item": "Training Administration-Other Public Safety Supplies/Equipment",
+    "Cost": 21000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 208,
+    "Item": "Station 34-Other Public Safety Supplies/Equipment",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 209,
+    "Item": "Fire Chief's Executive Office-Other Public Safety Supplies/Equipment",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 210,
+    "Item": "EMS Logistics-Non-Metropolitan Area Travel",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 211,
+    "Item": "Special Operations Administration-Non-Metropolitan Area Travel",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 212,
+    "Item": "Volunteer Services - Executive Office-Non-Metropolitan Area Travel",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 213,
+    "Item": "EMS Logistics-Keys And Locks",
+    "Cost": 250,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 214,
+    "Item": "Training Administration-Keys And Locks",
+    "Cost": 900,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 215,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Metropolitan Area Travel",
+    "Cost": 800,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 216,
+    "Item": "Property & Supply-Metropolitan Area Travel",
+    "Cost": 100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 217,
+    "Item": "Human Resources - Executive Office-Metropolitan Area Travel",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 218,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Professional Memberships (Individual)",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 219,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Charges from Occupational Medical Services (OMS)",
+    "Cost": 3307257,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 220,
+    "Item": "Emergency Communications Center (ECC)-Books / Reference Materials",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 221,
+    "Item": "Budget & Grants-Auto Liability",
+    "Cost": 4048745,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 222,
+    "Item": "Facilities-Linen/Bedding Supplies",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 223,
+    "Item": "Fleet Support-Books / Reference Materials",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 224,
+    "Item": "Facilities-Books / Reference Materials",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 225,
+    "Item": "Property & Supply-Books / Reference Materials",
+    "Cost": 100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 226,
+    "Item": "Community Risk Reduction-General Office Supplies",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 227,
+    "Item": "Facilities-Other Outside Printing/Copying",
+    "Cost": 300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 228,
+    "Item": "Planning and Accreditation-Meetings: Meals/Snacks/Refreshments",
+    "Cost": 25,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 229,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Meetings: Meals/Snacks/Refreshments",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 230,
+    "Item": "Property & Supply-HELMETS",
+    "Cost": 60000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 231,
+    "Item": "Special Operations Administration-Central Duplicating - Postage - Bulk",
+    "Cost": 100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 232,
+    "Item": "Human Resources - Executive Office-Central Duplicating - Postage - Bulk",
+    "Cost": 4000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 233,
+    "Item": "Volunteer Services - Executive Office-Workers Compensation",
+    "Cost": 59000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 234,
+    "Item": "EMS Logistics-Radio Equipment",
+    "Cost": 45000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 235,
+    "Item": "Fleet Support-Communication Data Installs",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 236,
+    "Item": "EMS Billing-Professional/Licensure Training",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 237,
+    "Item": "Fleet Support-Professional/Licensure Training",
+    "Cost": 3500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 238,
+    "Item": "Behavioral Health-Professional/Licensure Training",
+    "Cost": 34741,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 239,
+    "Item": "Operations Division - Executive Office-Central Duplicating - Postage - Bulk",
+    "Cost": 250,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 240,
+    "Item": "Fleet Support-Maintenance - Underground Storage Tanks",
+    "Cost": 40000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 241,
+    "Item": "Property & Supply-Maintenance - Alarms",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 242,
+    "Item": "Training Administration-Carpentry Supplies And Materials",
+    "Cost": 1300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 243,
+    "Item": "EMS Billing-Non-Metropolitan Area Travel",
+    "Cost": 4000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 244,
+    "Item": "Fire & Explosive Investigations-Assigned Motor Pool Vehicles",
+    "Cost": 14323,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 245,
+    "Item": "Training Administration-Assigned Motor Pool Vehicles",
+    "Cost": 28250,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 246,
+    "Item": "Fleet Support-Outside Printing / Copying",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 247,
+    "Item": "Procurement-Non-Metropolitan Area Travel",
+    "Cost": 400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 248,
+    "Item": "Planning and Accreditation-Non-Metropolitan Area Travel",
+    "Cost": 1200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 249,
+    "Item": "Fleet Support-Computer Equipment - Non Capitalized",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 250,
+    "Item": "Special Operations Administration-Computer Equipment - Non Capitalized",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 251,
+    "Item": "Property & Supply-Daily Rental Motor Pool",
+    "Cost": 750,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 252,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Professional Physician Services",
+    "Cost": 330720,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 253,
+    "Item": "Internal Affairs-Background Investigations",
+    "Cost": 8000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 254,
+    "Item": "Volunteer Services - Executive Office-Background Investigations",
+    "Cost": 11000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 255,
+    "Item": "Training Administration-Other Supplies And Materials",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 256,
+    "Item": "Fire Chief's Executive Office-Other Supplies And Materials",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 257,
+    "Item": "Admin Services-Employment Services",
+    "Cost": 57900,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 258,
+    "Item": "Community Risk Reduction-Other Supplies And Materials",
+    "Cost": 130000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 259,
+    "Item": "Internal Affairs-Other Non-Professional Services",
+    "Cost": 300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 260,
+    "Item": "Technology Services-Computer Equipment Repairs/Maintenance",
+    "Cost": 3500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 261,
+    "Item": "EMS Logistics-Television / Video Equipment",
+    "Cost": 1600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 262,
+    "Item": "EMS Logistics-Other Communication Services",
+    "Cost": 281230,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 263,
+    "Item": "Special Operations Administration-Other Supplies & Equipment",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 264,
+    "Item": "Budget & Grants-General Office Supplies",
+    "Cost": 373225,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 265,
+    "Item": "Admin Services-Other Outside Printing/Copying",
+    "Cost": 2100,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 266,
+    "Item": "EMS Logistics-Computer Software",
+    "Cost": 25000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 267,
+    "Item": "Technology Services-Computer Software",
+    "Cost": 25400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 268,
+    "Item": "Fleet Operations-Other Motor Vehicle Equipment - Non Capitalized",
+    "Cost": 35307,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 269,
+    "Item": "Training Administration-Other Motor Vehicle Equipment - Non Capitalized",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 270,
+    "Item": "Fleet Operations-Vehicle Components",
+    "Cost": 100000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 271,
+    "Item": "Training Administration-Television / Video Equipment",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 272,
+    "Item": "Fleet Support-Professional Memberships (Individual)",
+    "Cost": 1500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 273,
+    "Item": "Behavioral Health-Professional Memberships (Individual)",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 274,
+    "Item": "Operations Division - Executive Office-Professional Memberships (Individual)",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 275,
+    "Item": "Emergency Communications Center (ECC)-Professional Memberships (Individual)",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 276,
+    "Item": "Safety Section-Professional Memberships (Individual)",
+    "Cost": 1400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 277,
+    "Item": "Facilities-Maintenance Agreement - Building Equipment",
+    "Cost": 162500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 278,
+    "Item": "Fleet Support-Maintenance Agreement - Building Equipment",
+    "Cost": 35000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 279,
+    "Item": "Procurement-Metropolitan Area Travel",
+    "Cost": 550,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 280,
+    "Item": "Fire Chief's Executive Office-Outside Postage",
+    "Cost": 8400,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 281,
+    "Item": "EMS Billing-Admin Overhead Expense-Collection",
+    "Cost": 1080877,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 282,
+    "Item": "Training Administration-Central Duplicating - Postage - Bulk",
+    "Cost": 600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 283,
+    "Item": "Technical Rescue-Other Supplies And Materials",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 284,
+    "Item": "Human Resources - Executive Office-Other Supplies And Materials",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 285,
+    "Item": "Operations Division - Executive Office-Management/Leadership Training",
+    "Cost": 20231,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 286,
+    "Item": "Emergency Communications Center (ECC)-Non-Metropolitan Area Travel",
+    "Cost": 4000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 287,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Non-Metropolitan Area Travel",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 288,
+    "Item": "Fire & Explosive Investigations-Non-Metropolitan Area Travel",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 289,
+    "Item": "Behavioral Health-Non-Metropolitan Area Travel",
+    "Cost": 4000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 290,
+    "Item": "Fleet Support-Shoes",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 291,
+    "Item": "Volunteer Services - Executive Office-Other Utilities",
+    "Cost": 29000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 292,
+    "Item": "Technology Services-Computer Equipment - Non Capitalized",
+    "Cost": 34000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 293,
+    "Item": "Training Administration-Rest Room Supplies",
+    "Cost": 600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 294,
+    "Item": "Planning and Accreditation-Other Professional Services",
+    "Cost": 1500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 295,
+    "Item": "Volunteer Services - Executive Office-Other Miscellaneous Operating Expenses",
+    "Cost": 20000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 296,
+    "Item": "Recruiting-Conferences Hosted",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 297,
+    "Item": "EMS Logistics-Computer Equipment - Non Capitalized",
+    "Cost": 3000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 298,
+    "Item": "EMS Logistics-Hazardous Waste Handling",
+    "Cost": 600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 299,
+    "Item": "Training Administration-Hazardous Waste Handling",
+    "Cost": 150,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 300,
+    "Item": "Planning and Accreditation-Central Duplicating - Postage - Individual",
+    "Cost": 25,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 301,
+    "Item": "Behavioral Health-Local Conference Related",
+    "Cost": 15000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 302,
+    "Item": "Fleet Support-Automotive Service Excellence Certification",
+    "Cost": 3500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 303,
+    "Item": "Budget & Grants-Insurance Services/Premium",
+    "Cost": 75000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 304,
+    "Item": "EMS Logistics-Other Medical/Health Supplies",
+    "Cost": 50000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 305,
+    "Item": "Fire and Rescue Occupational Medical Services (FROMS)-Weight Room Equipment",
+    "Cost": 100000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 306,
+    "Item": "Fire Chief's Executive Office-Souvenirs",
+    "Cost": 5000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 307,
+    "Item": "Training Administration-Other Books",
+    "Cost": 1800,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 308,
+    "Item": "Training Administration-Other Education",
+    "Cost": 49500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 309,
+    "Item": "Procurement-Other Education",
+    "Cost": 1500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 310,
+    "Item": "Planning and Accreditation-Other Education",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 311,
+    "Item": "Special Events-Direct Service - Food/Meals",
+    "Cost": 200,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 312,
+    "Item": "Property & Supply-Uniforms",
+    "Cost": 523900,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 313,
+    "Item": "Emergency Medical & Integrated Healthcare Services-Local Conference Related",
+    "Cost": 2000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 314,
+    "Item": "Fire & Explosive Investigations-Local Conference Related",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 315,
+    "Item": "Human Resources - Executive Office-Local Conference Related",
+    "Cost": 1000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 316,
+    "Item": "Procurement-Local Conference Related",
+    "Cost": 600,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 317,
+    "Item": "Operations Division - Executive Office-Non-Local Conference Related",
+    "Cost": 10000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 318,
+    "Item": "Fleet Support-Uniform Cleaning",
+    "Cost": 15000,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 319,
+    "Item": "Property & Supply-Personal Protective Equipment (Fire/Rescue PPE)",
+    "Cost": 1331300,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 320,
+    "Item": "Fire & Explosive Investigations-Batteries",
+    "Cost": 500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 321,
+    "Item": "Training Administration-Non-Local Conference Related",
+    "Cost": 2500,
+    "Type": "Operating Expense",
+    "Subtype": "Operating Expense"
+  },
+  {
+    "ID": 322,
+    "Item": "E701",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 323,
+    "Item": "E702",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 324,
+    "Item": "E703",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 325,
+    "Item": "E704",
+    "Cost": 1929398.76,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 326,
+    "Item": "E705",
+    "Cost": 738272.6,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 327,
+    "Item": "E706",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 328,
+    "Item": "E707",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 329,
+    "Item": "E708",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 330,
+    "Item": "E710",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 331,
+    "Item": "E711",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 332,
+    "Item": "E712",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 333,
+    "Item": "E713",
+    "Cost": 1929398.76,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 334,
+    "Item": "E714",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 335,
+    "Item": "E715",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 336,
+    "Item": "E716",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 337,
+    "Item": "E717",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 338,
+    "Item": "E718",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 339,
+    "Item": "E719",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 340,
+    "Item": "E720",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 341,
+    "Item": "E721",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 342,
+    "Item": "E722",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 343,
+    "Item": "E723",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 344,
+    "Item": "E724",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 345,
+    "Item": "E725",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 346,
+    "Item": "E726",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 347,
+    "Item": "E728",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 348,
+    "Item": "E729",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 349,
+    "Item": "E730",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 350,
+    "Item": "E731",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 351,
+    "Item": "E732",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 352,
+    "Item": "E733",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 353,
+    "Item": "E734",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 354,
+    "Item": "E735",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 355,
+    "Item": "E740",
+    "Cost": 2487410.76,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [1st service]"
+  },
+  {
+    "ID": 356,
+    "Item": "AT701",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 357,
+    "Item": "AT703",
+    "Cost": 545771.2,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 358,
+    "Item": "AT704",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 359,
+    "Item": "T706",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 360,
+    "Item": "AT708",
+    "Cost": 2396841.12,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 361,
+    "Item": "T710",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 362,
+    "Item": "T715",
+    "Cost": 2396841.12,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 363,
+    "Item": "T716",
+    "Cost": 2396841.12,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 364,
+    "Item": "AT718",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 365,
+    "Item": "AT723",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 366,
+    "Item": "T725",
+    "Cost": 2396841.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 367,
+    "Item": "T731",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 368,
+    "Item": "T734",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 369,
+    "Item": "AT735",
+    "Cost": 1838829.12,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 370,
+    "Item": "RS703",
+    "Cost": 545771.2,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 371,
+    "Item": "RS717",
+    "Cost": 545771.2,
+    "Type": "Service",
+    "Subtype": "3-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 372,
+    "Item": "RS729",
+    "Cost": 2396841.12,
+    "Type": "Service",
+    "Subtype": "4-person major service 24/7 [2nd service]"
+  },
+  {
+    "ID": 373,
+    "Item": "RS742",
+    "Cost": 738272.6,
+    "Type": "Service",
+    "Subtype": "4-person major service 10-hrs [1st service]"
+  }
+]
