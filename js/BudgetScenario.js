@@ -690,7 +690,7 @@ class BudgetScenario {
 
             <h3>
                 Original Budget:
-                <strong id="final-budget">${formatCurrency(original)}</strong>
+                <strong id="final-budget">${formatCurrency(this.startingBudget)}</strong>
             </h3>
 
 
