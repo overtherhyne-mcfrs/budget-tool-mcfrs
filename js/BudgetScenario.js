@@ -96,11 +96,6 @@ class BudgetScenario {
                     </div>
 
 
-                    <button id="newScenario">
-                        New Scenario
-                    </button>
-
-
                 </div>
 
             </div>
