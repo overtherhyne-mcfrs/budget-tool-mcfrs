@@ -50,7 +50,7 @@ class BudgetScenario {
                 <li>Drag additions into the Selected Additions box.</li>
                 <li>Drag reductions into their associated Selected Reductions boxes.</li>
                 <li>To clear the selections and start over, click the <strong>New Scenario</strong> Button at the top.</li>
-                <li>This is currently designed to work on a computer and may function differently on phones.</li>
+                <li>On phones, just tap budget items to move them.</li>
                 <li>Other Specifics:</li>
                 <ol>
                     <li>To add an EMSDO, use the 1-person ALS-PCU 24/7 option; it is not 100% accurate but close enough.</li>
