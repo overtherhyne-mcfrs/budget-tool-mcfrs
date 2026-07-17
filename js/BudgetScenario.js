@@ -20,7 +20,9 @@ class BudgetScenario {
         this.cutGroups = {};
         this.reductionsCollapsed = true;
         this.additionsCollapsed = true;
-
+        this.isTouch =
+            ('ontouchstart' in window) ||
+            navigator.maxTouchPoints > 0;
 
         this.render();
     }
@@ -376,16 +378,25 @@ class BudgetScenario {
 
 
         // Setup drag/drop once
-       Object.keys(this.cutGroups).forEach(type => {
+    //    Object.keys(this.cutGroups).forEach(type => {
 
-            this.setupDropZone(
+    //         this.setupDropZone(
+    //             this.cutGroups[type].available,
+    //             this.cutGroups[type].selected,
+    //             this.selectedCuts,
+    //             "cut",
+    //             false
+    //         );
+
+    //     });
+
+        Object.keys(this.cutGroups).forEach(type => {
+
+            this.setupReductionDropZone(
                 this.cutGroups[type].available,
                 this.cutGroups[type].selected,
-                this.selectedCuts,
-                "cut",
-                false
+                this.selectedCuts
             );
-
         });
 
         budgetInput.addEventListener("input", () => {
@@ -419,32 +430,48 @@ class BudgetScenario {
 
         });
 
-        this.setupDropZone(
+        // this.setupDropZone(
+        //     addList,
+        //     addDrop,
+        //     this.selectedAdds,
+        //     "add",
+        //     true
+        // );
+        this.setupAdditionDropZone(
             addList,
-            addDrop,
-            this.selectedAdds,
-            "add",
-            true
+            addDrop
         );
-
 
         this.updateSummary();
 
     }
 
+    // addDragEvents(card) {
+
+    //     card.addEventListener("dragstart", e => {
+
+    //         this.draggedCard = card;
+
+    //         e.dataTransfer.setData("id", card.dataset.id);
+    //         e.dataTransfer.setData("type", card.dataset.type);
+
+    //     });
+
+    // }
+
     addDragEvents(card) {
 
         card.addEventListener("dragstart", e => {
 
-            e.dataTransfer.setData(
-                "id",
-                card.dataset.id
-            );
+            this.draggedCard = card;
 
-            e.dataTransfer.setData(
-                "type",
-                card.dataset.type
-            );
+            e.dataTransfer.setData("id", card.dataset.id);
+
+        });
+
+        card.addEventListener("dragend", () => {
+
+            this.draggedCard = null;
 
         });
 
@@ -471,163 +498,72 @@ class BudgetScenario {
 
         `;
 
-        this.addDragEvents(card);
+        if (this.isTouch) {
+
+            card.addEventListener("click", () => {
+
+                if (type === "cut") {
+                    this.toggleCutCard(card);
+                } else {
+                    this.addAdditionCard(card);
+                }
+
+            });
+
+        } else {
+
+            this.addDragEvents(card);
+
+        }
 
 
         return card;
 
     }
 
+    setupReductionDropZone(list, dropZone, selectedCuts) {
+
+        list.addEventListener("dragover", e => e.preventDefault());
+
+        dropZone.addEventListener("dragover", e => e.preventDefault());
 
 
-    setupDropZone(list, dropZone, selectedSet, type, allowDuplicates = false) {
-
-
-        list.addEventListener("dragover", e => {
-
-            e.preventDefault();
-
-        });
-
-
-        dropZone.addEventListener("dragover", e => {
-
-            e.preventDefault();
-
-        });
-
-
-
-        // Moving item back to available list
         list.addEventListener("drop", e => {
 
             e.preventDefault();
 
+            const card = this.draggedCard;
 
-            const id = Number(
-                e.dataTransfer.getData("id")
-            );
-
-
-            const draggedType =
-                e.dataTransfer.getData("type");
-
-
-            if (draggedType !== type) {
-                return;
-            }
-
-
-
-            const card = this.container.querySelector(
-                `.budget-item[data-id="${id}"][data-type="${type}"]`
-            );
-
-            
-
+            if (!card) return;
 
             this.cutGroups[card.dataset.category]
                 .available
                 .appendChild(card);
 
-
-            if (allowDuplicates) {
-
-                const index = selectedSet.indexOf(id);
-
-                if (index !== -1) {
-                    selectedSet.splice(index, 1);
-                }
-
-            } else {
-
-                selectedSet.delete(id);
-
-            }
-
+            selectedCuts.delete(Number(card.dataset.id));
 
             this.updateSummary();
 
         });
 
 
-
-
-
-        // Moving item into selected list
         dropZone.addEventListener("drop", e => {
 
             e.preventDefault();
 
+            const card = this.draggedCard;
 
-            const id = Number(
-                e.dataTransfer.getData("id")
-            );
+            if (!card) return;
 
+            const category = card.dataset.category;
 
-            const draggedType =
-                e.dataTransfer.getData("type");
-
-
-            if (draggedType !== type) {
+            if (category !== dropZone.dataset.type) {
                 return;
             }
 
+            dropZone.appendChild(card);
 
-            const originalCard = this.container.querySelector(
-                `.budget-item[data-id="${id}"][data-type="${type}"]`
-            );
-
-
-            if (!originalCard) {
-                console.log("Card not found:", id);
-                return;
-            }
-
-
-            if (!allowDuplicates) {
-
-                const category = originalCard.dataset.category;
-
-
-                if (category !== dropZone.dataset.type) {
-                    return;
-                }
-
-            }
-
-
-            let newCard;
-
-
-            if (allowDuplicates) {
-
-                // Create a copy and leave original available
-                newCard = originalCard.cloneNode(true);
-                this.addDragEvents(newCard);
-
-            } else {
-
-                // Move the original card
-                newCard = originalCard;
-
-            }
-
-
-            dropZone.appendChild(newCard);
-
-
-
-            if (allowDuplicates) {
-
-                selectedSet.push(id);
-
-            } else {
-
-                selectedSet.add(id);
-
-            }
-
+            selectedCuts.add(Number(card.dataset.id));
 
             this.updateSummary();
 
@@ -635,7 +571,276 @@ class BudgetScenario {
 
     }
 
+    setupAdditionDropZone(addList, addDrop) {
 
+        addList.addEventListener("dragover", e => e.preventDefault());
+
+        addDrop.addEventListener("dragover", e => e.preventDefault());
+
+
+        // Remove one selected addition
+        addList.addEventListener("drop", e => {
+
+            e.preventDefault();
+
+            const card = this.draggedCard;
+
+            if (!card) return;
+
+            const id = Number(card.dataset.id);
+
+            card.remove();
+
+            const index = this.selectedAdds.indexOf(id);
+
+            if (index !== -1) {
+                this.selectedAdds.splice(index, 1);
+            }
+
+            this.updateSummary();
+
+        });
+
+
+        // Add another copy
+        addDrop.addEventListener("drop", e => {
+
+            e.preventDefault();
+
+            const original = this.draggedCard;
+
+            if (!original) return;
+
+            const clone = original.cloneNode(true);
+
+            this.addDragEvents(clone);
+
+            addDrop.appendChild(clone);
+
+            this.selectedAdds.push(Number(original.dataset.id));
+
+            this.updateSummary();
+
+        });
+
+    }
+
+    // setupDropZone(list, dropZone, selectedSet, type, allowDuplicates = false) {
+
+
+    //     list.addEventListener("dragover", e => {
+
+    //         e.preventDefault();
+
+    //     });
+
+
+    //     dropZone.addEventListener("dragover", e => {
+
+    //         e.preventDefault();
+
+    //     });
+
+
+
+    //     // Moving item back to available list
+    //     list.addEventListener("drop", e => {
+
+    //         e.preventDefault();
+
+
+    //         const id = Number(
+    //             e.dataTransfer.getData("id")
+    //         );
+
+
+    //         const draggedType =
+    //             e.dataTransfer.getData("type");
+
+
+    //         if (draggedType !== type) {
+    //             return;
+    //         }
+
+
+
+    //         const card = this.draggedCard;
+
+    //         if (allowDuplicates) {
+
+    //             // Remove the clone from the selected area
+    //             card.remove();
+
+    //             // Remove one occurrence from the array
+    //             const index = selectedSet.indexOf(id);
+
+    //             if (index !== -1) {
+    //                 selectedSet.splice(index, 1);
+    //             }
+
+    //         } else {
+
+    //             // Move the reduction card back
+    //             this.cutGroups[card.dataset.category]
+    //                 .available
+    //                 .appendChild(card);
+
+    //             selectedSet.delete(id);
+
+    //         }
+
+    //         this.updateSummary();
+
+    //     });
+
+
+
+
+
+    //     // Moving item into selected list
+    //     dropZone.addEventListener("drop", e => {
+
+    //         e.preventDefault();
+
+
+    //         const id = Number(
+    //             e.dataTransfer.getData("id")
+    //         );
+
+
+    //         const draggedType =
+    //             e.dataTransfer.getData("type");
+
+
+    //         if (draggedType !== type) {
+    //             return;
+    //         }
+
+
+    //         const originalCard = this.container.querySelector(
+    //             `.budget-item[data-id="${id}"][data-type="${type}"]`
+    //         );
+
+
+    //         if (!originalCard) {
+    //             console.log("Card not found:", id);
+    //             return;
+    //         }
+
+
+    //         if (!allowDuplicates) {
+
+    //             const category = originalCard.dataset.category;
+
+
+    //             if (category !== dropZone.dataset.type) {
+    //                 return;
+    //             }
+
+    //         }
+
+
+    //         let newCard;
+
+
+    //         if (allowDuplicates) {
+
+    //             // Create a copy and leave original available
+    //             newCard = originalCard.cloneNode(true);
+    //             this.addDragEvents(newCard);
+
+    //         } else {
+
+    //             // Move the original card
+    //             newCard = originalCard;
+
+    //         }
+
+
+    //         dropZone.appendChild(newCard);
+
+
+
+    //         if (allowDuplicates) {
+
+    //             selectedSet.push(id);
+
+    //         } else {
+
+    //             selectedSet.add(id);
+
+    //         }
+
+
+    //         this.updateSummary();
+
+    //     });
+
+    // }
+
+    toggleCutCard(card) {
+
+        const id = Number(card.dataset.id);
+
+        if (this.selectedCuts.has(id)) {
+
+            this.selectedCuts.delete(id);
+
+            this.cutGroups[card.dataset.category]
+                .available
+                .appendChild(card);
+
+        } else {
+
+            this.selectedCuts.add(id);
+
+            this.cutGroups[card.dataset.category]
+                .selected
+                .appendChild(card);
+
+        }
+
+        this.updateSummary();
+
+    }
+
+    addAdditionCard(card) {
+
+        const clone = card.cloneNode(true);
+
+        this.addTouchRemove(clone);
+
+        this.container
+            .querySelector(".add-dropzone")
+            .appendChild(clone);
+
+        this.selectedAdds.push(Number(card.dataset.id));
+
+        this.updateSummary();
+
+    }
+
+    addTouchRemove(card) {
+
+        card.addEventListener("click", () => {
+
+            const id = Number(card.dataset.id);
+
+            const index = this.selectedAdds.indexOf(id);
+
+            if (index !== -1) {
+
+                this.selectedAdds.splice(index, 1);
+
+            }
+
+            card.remove();
+
+            this.updateSummary();
+
+        });
+
+    }
 
 
     updateSummary() {
