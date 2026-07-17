@@ -311,12 +311,19 @@ class BudgetScenario {
 
             selectedSection.innerHTML = `
 
-                <h3>${type}</h3>
+                <details open>
 
-                <div
-                    class="cut-dropzone"
-                    data-type="${type}">
-                </div>
+                    <summary>
+                        ${type}
+                        <span class="selected-total">$0</span>
+                    </summary>
+
+                    <div
+                        class="cut-dropzone"
+                        data-type="${type}">
+                    </div>
+
+                </details>
 
             `;
 
@@ -887,6 +894,8 @@ class BudgetScenario {
         const finalBudget =
             this.startingBudget - cuts + adds;
 
+        
+
         this.container.querySelector(
             "#savingsTarget"
         ).textContent =
@@ -907,6 +916,40 @@ class BudgetScenario {
             remainingGap <= 0
                 ? "goal-met"
                 : "goal-open";
+
+        Object.keys(this.cutGroups).forEach(type => {
+
+            // Find all selected cards in this category
+            const cards = this.cutGroups[type]
+                .selected
+                .querySelectorAll(".budget-item");
+
+            let total = 0;
+
+            cards.forEach(card => {
+
+                const id = Number(card.dataset.id);
+
+                const item = this.currentBudget.find(
+                    x => x.ID === id
+                );
+
+                if (item) {
+                    total += item.Cost;
+                }
+
+            });
+
+            const totalSpan =
+                this.cutGroups[type]
+                    .selected
+                    .parentElement
+                    .querySelector(".selected-total");
+
+            totalSpan.textContent =
+                "-" + formatCurrency(total);
+
+        });
 
         this.container.querySelector(".summary").innerHTML = `
 
